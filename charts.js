@@ -78,6 +78,7 @@ function buildCharts(sample) {
 
     // 8. Create the trace for the bar chart. 
     var barData = [{
+      title: "Top 10 Bacteria Cultures Found",
       x: sample_values.slice(0,10).reverse(),
       y: yticks,
       text: otu_labels.slice(0,10).reverse(),
@@ -132,6 +133,7 @@ function buildCharts(sample) {
             // 4. Create the trace for the gauge chart.
             var gaugeData = [
               {
+                title: "Bell Button Washing Frequency",
                 value: washfreq,
                 type: "indicator",
                 mode: "gauge+number",
