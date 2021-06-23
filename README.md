@@ -13,4 +13,4 @@ Rosa now wants to build a dashboard that her research participants and fellow re
 Our job was to help her build that dashboard with the following when an individual were to select an ID number they would be able to see the following filtered data in chart form: 
   * The Top 10 Bacteria Cultures Found in a bar chart
   * The Bacteria Cultures Per Sample in a bubble chart
-  * Bell Button Washing Frequency in a guage chart 
+  * BellyButton Washing Frequency in a gauge chart 
