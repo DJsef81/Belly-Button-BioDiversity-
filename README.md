@@ -1,6 +1,5 @@
 
-# Plotly &amp; Belly Button Diversity 
-
+# Charting for Bellybutton Bio-Diversity 
 # Purpose 
 Rosa is a biological researcher at a prominent micro-biology labratory. 
 
